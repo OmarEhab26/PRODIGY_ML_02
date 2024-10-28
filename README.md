@@ -4,7 +4,6 @@
 ## Overview
 This project focuses on segmenting customers using K-Means clustering based on their annual income, spending scores, and age. The dataset used for analysis is `Mall_Customers.csv`, which contains various attributes of customers visiting a mall.
 
-## Code Summary
 - **Libraries Used**: 
   - `numpy`: For numerical operations.
   - `pandas`: For data manipulation.
